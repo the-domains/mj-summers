@@ -1,7 +1,7 @@
 name: MJ Summers
 favicon: null
-layout_spectrum: 0.1901491831522435
-typography_spectrum: 0.4882244465406984
+layout_spectrum: 0.31835
+typography_spectrum: 0.14746
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.6627945704385638
-  lightness: 0.0714558120816946
-  saturation: 0.275306107243523
+  brandStrength: 0.75
+  lightness: 0.875
+  saturation: 0.3125
   rhythmicContrast: 0.6619395553134382
 purpose: []
