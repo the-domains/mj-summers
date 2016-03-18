@@ -1,0 +1,28 @@
+name: MJ Summers
+favicon: null
+layout_spectrum: 0.1901491831522435
+typography_spectrum: 0.4882244465406984
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6627945704385638
+  lightness: 0.0714558120816946
+  saturation: 0.275306107243523
+  rhythmicContrast: 0.6619395553134382
+purpose: []
