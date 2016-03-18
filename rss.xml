@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[MJ Summers]]></title>
         <description><![CDATA[MJ Summers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mj-summers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 15:51:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 16:04:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mj-summers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae7c4eea-fcc2-45d5-a8cb-8c4c5f894097.jpg">]]></description>
-            <link>undefinedthe-final-chapter-in-the-full-hearts-series-is-coming-soon/index.html</link>
+            <link>https://thegrid.ai/mj-summers/the-final-chapter-in-the-full-hearts-series-is-coming-soon/index.html</link>
             <guid isPermaLink="false">5f227b95-5e04-42d3-837c-1ae8489d47e7</guid>
             <pubDate>Fri, 18 Mar 2016 15:51:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Break in Two (Full Hearts Book 1) ]]></title>
+            <description><![CDATA[<article><h1>Break in Two (Full Hearts Book 1) </h1><p>Break in Two (Full Hearts Book 1) </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab1615da7650ab1f4fdfb4985f1068c2bdfd9e86.png"></article>]]></description>
+            <link>https://thegrid.ai/mj-summers/break-in-two-full-hearts-book-1/index.html</link>
+            <guid isPermaLink="false">4cebcc82-8c66-4dca-8560-f598a33300d9</guid>
+            <pubDate>Fri, 18 Mar 2016 16:04:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
